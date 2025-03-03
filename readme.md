@@ -141,3 +141,63 @@ Answer:
 olleH dlroW
 ```
 
+
+
+# 🔍 Palindrome Finder
+
+## 📜 Description
+This repository contains multiple Java programs that check whether a given word is a palindrome. Each program demonstrates a different approach to solving the palindrome problem efficiently.
+
+## 📂 Programs
+
+### 1. ✨ **Palindrome Checker using StringBuilder** (`Palindrome1.java`)
+**📌 Description:** Uses `StringBuilder` to reverse the string and compares it (case-insensitive) to determine if it is a palindrome.
+#### 🛠️ Usage:
+```sh
+javac Palindrome1.java
+java Palindrome1
+```
+#### 🔢 Example Input:
+```
+Enter a word: Level
+```
+#### ✅ Example Output:
+```
+It is a Palindrome word.
+```
+
+---
+
+### 2. 🔄 **Palindrome Checker using Loop** (`Palindrome2.java`)
+**📌 Description:** Uses a loop to manually reverse the string and compare it character by character.
+#### 🛠️ Usage:
+```sh
+javac Palindrome2.java
+java Palindrome2
+```
+#### 🔢 Example Input:
+```
+Enter a word: Racecar
+```
+#### ✅ Example Output:
+```
+It is a Palindrome word.
+```
+
+---
+
+### 3. 🏆 **Palindrome Checker using StringBuilder Reverse Method** (`Palindrome3.java`)
+**📌 Description:** Utilizes the `reverse()` method from `StringBuilder` to check if a string is a palindrome efficiently.
+#### 🛠️ Usage:
+```sh
+javac Palindrome3.java
+java Palindrome3
+```
+#### 🔢 Example Input:
+```
+Enter a word: Noon
+```
+#### ✅ Example Output:
+```
+Palindrome String
+```
