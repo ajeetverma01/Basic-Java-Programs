@@ -141,15 +141,3 @@ Answer:
 olleH dlroW
 ```
 
----
-
-## 💡 Contributions
-
-Contributions are always welcome! Feel free to fork the repository, submit issues, and create pull requests to improve the project. 🙌
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
-🌟 Happy Coding! 🚀
-
