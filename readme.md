@@ -142,6 +142,28 @@ olleH dlroW
 ```
 
 
+🔹 **Description:** A simple Java program that takes an integer input and returns its reverse.
+
+#### 🚀 Usage:
+
+```sh
+javac GetReverse.java
+java GetReverse
+```
+
+#### ⌨️ Example Input:
+
+```
+Enter a number: 12345
+```
+
+#### 📌 Example Output:
+
+```
+Reversed number: 54321
+```
+
+
 
 # 🔍 Palindrome Finder
 
