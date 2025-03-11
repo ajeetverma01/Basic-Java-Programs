@@ -232,6 +232,32 @@ Is empty: false
 Starts with HelloWorld: true
 ```  
 
+### 🔟 **Command Line Argument** (`CommandLineArgument.java`)
+
+🔹 **Description:** Demonstrates how to use command-line arguments in Java by printing a greeting for each provided argument.
+
+#### 🚀 Usage:
+
+```sh
+javac CommandLineArgument.java
+java CommandLineArgument Ajeet Sujeet Rahul Amit
+```  
+
+#### ⌨️ Example Input (Command Line):
+
+```
+java CommandLineArgument Ajeet Sujeet Rahul Amit
+```  
+
+#### 📌 Example Output:
+
+```
+Hello! Ajeet
+Hello! Sujeet
+Hello! Rahul
+Hello! Amit
+```  
+
 
 # 🔍 Palindrome Finder
 
