@@ -164,6 +164,30 @@ Enter a number: 12345
 Reversed number: 54321
 ```
 
+Here’s your **Linear Search** program README aligned to your requested format:
+
+### 7️⃣ **Linear Search** (`LinearSearch.java`)
+
+🔹 **Description:** Searches for a specific number in an array using the Linear Search algorithm and returns its index if found.
+
+#### 🚀 Usage:
+
+```sh
+javac LinearSearch.java
+java LinearSearch
+```  
+
+#### ⌨️ Example Input:
+
+```
+Enter the number to search: 66
+```  
+
+#### 📌 Example Output:
+
+```
+Element found at index no. 5
+```  
 
 
 # 🔍 Palindrome Finder
