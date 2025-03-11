@@ -188,7 +188,27 @@ Enter the number to search: 66
 ```
 Element found at index no. 5
 ```  
+Here’s your **Selection Sort** program README in the requested format:
 
+### 8️⃣ **Selection Sort** (`SelectionSort.java`)
+
+🔹 **Description:** Implements the Selection Sort algorithm to sort an array in ascending order.
+
+#### 🚀 Usage:
+
+```sh
+javac SelectionSort.java
+java SelectionSort
+```  
+
+#### 📌 Example Output:
+
+```
+Sorted...
+0 1 2 3 4 5 6 7 8 9
+```  
+
+Let me know if you need modifications! 🚀
 
 # 🔍 Palindrome Finder
 
