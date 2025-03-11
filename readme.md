@@ -164,7 +164,6 @@ Enter a number: 12345
 Reversed number: 54321
 ```
 
-Here’s your **Linear Search** program README aligned to your requested format:
 
 ### 7️⃣ **Linear Search** (`LinearSearch.java`)
 
@@ -188,7 +187,6 @@ Enter the number to search: 66
 ```
 Element found at index no. 5
 ```  
-Here’s your **Selection Sort** program README in the requested format:
 
 ### 8️⃣ **Selection Sort** (`SelectionSort.java`)
 
@@ -208,7 +206,32 @@ Sorted...
 0 1 2 3 4 5 6 7 8 9
 ```  
 
-Let me know if you need modifications! 🚀
+### 9️⃣ **String Operations** (`StringOperations.java`)
+
+🔹 **Description:** Performs basic string operations such as converting to uppercase, lowercase, checking if empty, and verifying the starting substring.
+
+#### 🚀 Usage:
+
+```sh
+javac StringOperations.java
+java StringOperations
+```  
+
+#### ⌨️ Example Input:
+
+```
+Enter input string: HelloWorld
+```  
+
+#### 📌 Example Output:
+
+```
+Uppercase:  HELLOWORLD
+Lowercase: helloworld
+Is empty: false
+Starts with HelloWorld: true
+```  
+
 
 # 🔍 Palindrome Finder
 
