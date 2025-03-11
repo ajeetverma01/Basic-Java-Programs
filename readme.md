@@ -141,6 +141,7 @@ Answer:
 olleH dlroW
 ```
 
+### 6️⃣ **Number Reversal Tool** (`GetReverse.java`)
 
 🔹 **Description:** A simple Java program that takes an integer input and returns its reverse.
 
