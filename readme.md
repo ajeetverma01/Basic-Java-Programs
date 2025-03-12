@@ -303,7 +303,7 @@ It is a Palindrome word.
 ---
 
 ### 3. 🏆 **Palindrome Checker using StringBuilder Reverse Method** (`Palindrome3.java`)
-**📌 Description:** Utilizes the `reverse()` method from `StringBuilder` to check if a string is a palindrome efficiently.
+**📌 Description:** Utilizes the `reverse()` method from `StringBuilder` to check if a string is palindrome efficiently.
 #### 🛠️ Usage:
 ```sh
 javac Palindrome3.java
